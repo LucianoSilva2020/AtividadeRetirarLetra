@@ -1,3 +1,5 @@
+import os 
+os.system('cls')
 from re import A
 from unittest import result
 
